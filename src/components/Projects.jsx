@@ -1,6 +1,6 @@
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
 
-import {projectPhoto1} from "../assets/preview.png";
+
 
 const projects = [
   {
@@ -8,7 +8,7 @@ const projects = [
     title: "TijuTech",
     description: "Landing page para empresa de manutenção de celulares.",
     image:
-      {projectPhoto1},
+    "../../public/projects/preview.png",
     tags: ["React", "TailwindCSS", "Vite"],
     demoUrl: "https://tijutech-landing.vercel.app",
     githubUrl: "https://github.com/IgorSouzDEV/tijutech-landing",
