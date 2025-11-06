@@ -8,7 +8,7 @@ const projects = [
     title: "TijuTech",
     description: "Landing page para empresa de manutenção de celulares.",
     image:
-    "../../public/projects/preview.png",
+    "/projects/preview.png",
     tags: ["React", "TailwindCSS", "Vite"],
     demoUrl: "https://tijutech-landing.vercel.app",
     githubUrl: "https://github.com/IgorSouzDEV/tijutech-landing",
